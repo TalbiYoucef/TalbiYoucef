@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalbiYoucef
-- 👀 I’m interested in Gaming, music, films, Game/Software development
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in Gaming, music, films, crypto.
+- 🌱 I’m currently studying Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :
          email:y.talbi@esi-sba.dz

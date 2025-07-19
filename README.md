@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talbi Youcef</h1>
-<h2 align="center">AI Student</h2>
+<h2 align="center">AI Developer & Student</h2>
 <h3 align="center">Backend and Flutter Developper</h3>
-
-
-[//]: <> (🔭 I’m currently working on [ProjectManager](https://github.com/TalbiYoucef/ProjectManager/))
 
 - 🌱 I’m currently learning & developping **AI AGENTS**
 

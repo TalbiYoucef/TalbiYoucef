@@ -3,9 +3,9 @@
 <h3 align="center">Backend and Flutter Developper</h3>
 
 
-- 🔭 I’m currently working on [ProjectManager](https://github.com/TalbiYoucef/ProjectManager/)
+[//]: <> (🔭 I’m currently working on [ProjectManager](https://github.com/TalbiYoucef/ProjectManager/))
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning & developping **AI AGENTS**
 
 - 📫 How to reach me **y.talbi@esi-sba.dz**
 

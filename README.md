@@ -18,7 +18,6 @@ arrive in a tidy API and you have to go get it yourself.
 - 🌱 Currently building **AI agents** and automation pipelines
 - 🧠 Into LLM fine-tuning, retrieval, and data engineering at scale (Hadoop · Spark · Kafka)
 - 🎓 CS graduate of **ESI-SBA** — *École Supérieure en Informatique, Sidi Bel Abbès*
-- 💬 Ask me about FastAPI, Flutter, or wiring an LLM into something that already exists
 
 ---
 

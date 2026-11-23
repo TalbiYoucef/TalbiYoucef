@@ -17,7 +17,7 @@ mostly in Python and SQL. These days I'm focusing on Spark, Kafka and cloud data
 
 - 🎓 **ESI-SBA**, *École Supérieure en Informatique, Sidi Bel Abbès* (2020 – 2026), specialty AI & Data Science
 - 📚 Master's thesis: *Querying Probabilistic OLAP Data Cubes with Hierarchies: Models and Algorithms*, supervised by Dr. Belkacem Khaldi
-- 🌱 Currently learning: Spark, Kafka and cloud data platforms
+- 🔭 Focus: large-scale machine learning, getting models to train and run on big data and cloud platforms
 
 ---
 
